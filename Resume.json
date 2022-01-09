@@ -1,0 +1,87 @@
+{
+  "basics": {
+    "name": "pulipaka siva sai deepak",
+    "label": "student",
+    "image": "",
+    "email": "18l11a0518@gmail.com",
+    "phone": "1234567890",
+    "url": "https://github.com/Siva-Sai-Deepak/",
+    "summary": "final year undergrad student passionate about cloud computing and learning new technologies",
+    "location": {
+      "address": "2712 Broadway St",
+      "postalCode": "CA 94115",
+      "city": "San Francisco",
+      "countryCode": "US",
+      "region": "California"
+    },
+    "profiles": [{
+      "network": "Twitter",
+      "username": "deepakpulipaka",
+      "url": "https://twitter.com/deepakpulipaka"
+    }]
+  },
+  "work": [{
+    "name": "Pantech solutions",
+    "position": "intern",
+    "url": "https://pantechlearning.com",
+    "startDate": "2021-12-01",
+    "endDate": "2022-01-01",
+    "summary": "internship on AI",
+    "highlights": [
+      "Started the company for providing good knowledge to the students"
+    ]
+  }],
+  "education": [{
+    "institution": " Jawaharlal Nehru Technological University",
+    "url": "https://jntuk.com/",
+    "area": "Computer science and Engineering",
+    "studyType": "Bachelor",
+    "startDate": "2018-06-01",
+    "endDate": "2022-06-01",
+    "score": "6.96",
+    "courses": [
+      "DB1101 - Basic SQL"
+    ]
+  }],
+  "awards": [{
+    "title": "IBM APPLIED AI",
+    "date": "2020-11-01",
+    "awarder": "Coursera",
+    "summary": "There is no spoon."
+  }],
+  "skills": [{
+    "name": "Microsoft Azure",
+    "level": "Intermediate",
+    "keywords": [
+      "azure",
+      "google cloud",
+      "python"
+    ]
+  }],
+  "languages": [{
+    "language": "English",
+    "fluency": "Native speaker"
+  }],
+  "interests": [{
+    "name": "cloud career",
+    "keywords": [
+      "exploring cloud",
+      "attending workshops"
+    ]
+  }],
+  "projects": [{
+    "name": "Resume api using azure",
+    "description": "this project can provide resume template.",
+    "keywords": [
+      "Azure"
+    ],
+    "startDate": "2019-01-01",
+    "endDate": "2021-01-01",
+    "url": "https://github.com/",
+    "roles": [
+      "template"
+    ],
+    "entity": "Entity",
+    "type": "application program interface"
+  }]
+}
